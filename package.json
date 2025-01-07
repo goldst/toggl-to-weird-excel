@@ -1,0 +1,14 @@
+{
+  "name": "time-tracking-converter",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "compile": "tsc index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
